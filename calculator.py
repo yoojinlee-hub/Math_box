@@ -8,3 +8,6 @@ def subtract(a, b):
 
 def divide_free(a, b):  
     return a/b
+
+def square(a):
+	return a*a
